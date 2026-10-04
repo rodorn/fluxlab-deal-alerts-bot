@@ -1,5 +1,7 @@
 # deal-alerts-bot
 
+> Monitorowanie serwisów i pobieranie danych na zamówienie: [fluxlab.pl/scraping-danych](https://fluxlab.pl/scraping-danych?utm_source=github&utm_campaign=fluxlab-deal-alerts-bot)
+
 Silnik platnego feedu "deal alertow" dla arbitrazu na marketplace'ach. Pobiera
 oferty z publicznego, bezkluczowego zrodla, ocenia je (scoring cena vs mediana
 kategorii), a wykryte okazje (DEAL) wysyla na Discord/Telegram. Warstwa
